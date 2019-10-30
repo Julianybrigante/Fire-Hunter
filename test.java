@@ -47,6 +47,6 @@ public class test {
                     System.out.println("ataque no escudo ou ataque na vida ou cura");
                     break;
             }
-            
+            System.out.println("fim do menu");
     }
 }

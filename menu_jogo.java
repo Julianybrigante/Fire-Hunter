@@ -17,6 +17,7 @@ public class menu_jogo {
     static int menu() {
         int escolha;
         Scanner teclado = new Scanner(System.in);
+        System.out.println("--- MENU ---");
         System.out.println("1 - INICIAR");
         System.out.println("2 - INSTRUÇÕES");
         System.out.println("3 - SAIR");
